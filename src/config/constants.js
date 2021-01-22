@@ -54,9 +54,9 @@ module.exports = function() {
 				'database' : 'dellstore2'
 			},
 			'development' : {
-				'host' : 'dellstore2.cohobyukovto.ap-south-1.rds.amazonaws.com',
-				'user' : 'dellstoreaws',
-				'password' : 'dellstoreaws',
+				'host' : 'dellstore2.cxufcspczsx8.us-east-1.rds.amazonaws.com',
+				'user' : 'dellstore2aws',
+				'password' : 'Kennyfajem1',
 				'database' : 'dellstore2'
 			}
 		};
